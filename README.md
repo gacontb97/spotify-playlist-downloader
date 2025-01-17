@@ -51,9 +51,9 @@ Bu proje, Spotify oynatma listelerini MP3 formatında indirmenizi sağlar.
 
 ## Notes / Notlar
 
-FFMPEG: https://ffmpeg.org/download.html
-Spotify API: https://developer.spotify.com/
-YT-DLP: https://github.com/yt-dlp/yt-dlp/releases
+- FFMPEG: https://ffmpeg.org/download.html
+- Spotify API: https://developer.spotify.com/
+- YT-DLP: https://github.com/yt-dlp/yt-dlp/releases
 
 - Make sure `ffmpeg` is installed and accessible in your system PATH.
   `ffmpeg`'in yüklü olduğundan ve sistem PATH'inde erişilebilir olduğundan emin olun.
