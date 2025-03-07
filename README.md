@@ -36,8 +36,8 @@ Bu proje, Spotify oynatma listelerini MP3 formatında indirmenizi sağlar.
 
 ## Usage / Kullanım
 
-1. Run the `spotify.py` file.
-   `spotify.py` dosyasını çalıştırın.
+1. Run the `python spotify.py` file.
+   `python spotify.py` dosyasını çalıştırın.
 
 2. The download process will be completed and the downloaded files will be in the `downloads` folder.
    İndirme işlemi tamamlandığında, indirilen dosyalar `downloads` klasöründe bulunacaktır.
